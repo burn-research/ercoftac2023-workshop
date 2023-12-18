@@ -47,6 +47,6 @@ There are several options to write and execute the code:
 - Finally, the last option is to use [Colab](https://colab.google/). In this case, you will have to download the dataset from the repository and upload it on Colab.
 
 
-If you are a beginner with Python, you can have a look at these introductions for [Numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) and [Matplotlib](https://matplotlib.org/stable/tutorials/pyplot.html).
+If you are a beginner with Python, you can have a look at these introductions for [Numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) and [Matplotlib](https://matplotlib.org/stable/tutorials/pyplot.html). Also, here you can find an introduction to [Spyder](https://docs.spyder-ide.org/current/videos/first-steps-with-spyder.html) and [Jupyter](https://realpython.com/jupyter-notebook-introduction/).
 
 
