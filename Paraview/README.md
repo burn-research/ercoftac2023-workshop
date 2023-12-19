@@ -2,7 +2,7 @@
 
 * Visit https://www.paraview.org 
 * Click on download
-* Choose 5.11
+* Choose 5.11 (any of the python versions work)
   
 ## Windows
 Download installer (Either MPI or not, but if you choose MPI install https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi previously)
