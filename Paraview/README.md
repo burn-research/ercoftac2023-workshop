@@ -29,7 +29,7 @@ Test:
 On the same terminal do `source ~/.bashrc` (or open a new one), then
 `paraview`
 
-See if it runs, else send us an email with the exact error (you can try fixing yourself first)
+See if it runs, else send us an email with the exact error.
 
 ### Ubuntu
 There's a package on the apt-get store for paraview. (NOT RECOMMENDED)
